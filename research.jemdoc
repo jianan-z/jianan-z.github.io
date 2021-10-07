@@ -1,0 +1,20 @@
+# jemdoc: menu{MENU}{research.html}, nodate
+= Research 
+
+== Journal papers:
+. Jianan Zhang, Lachlan L. H. Andrew, [papers/Engset_CL.pdf  Efficient generalized Engset blocking calculation], IEEE Communications Letters, vol. 18, no. 9, pp. 1535 - 1538, September, 2014.  [papers/calculation.m MATLAB code]
+. Jianan Zhang, Eric W. M. Wong, Moshe Zukerman, [http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6168151  Modeling an OBS node under critical load and high utilization conditions], IEEE Communications Letters, vol. 16, no. 4, pp. 544 - 546, April 2012.
+. Jianan Zhang, Yu Peng, Eric W. M. Wong, Moshe Zukerman, [http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6042295  Sensitivity of blocking probability in the generalized Engset model for OBS], IEEE Communications Letters, vol. 15, no. 11, pp. 1243 - 1245, November 2011.
+
+== Conference papers:
+. Jianan Zhang, Eytan Modiano, David Hay, [papers/shielding.pdf Enhancing network robustness via shielding], DRCN 2015, Kansas City, USA.
+. Zhisheng Niu, Jianan Zhang, Xueying Guo, Sheng Zhou, [papers/Energy_Delay_Tradeoff.pdf On energy-delay tradeoff in base station sleep mode operation], Proc. ICCS 2012, Singapore, Nov 2012.
+. Jianan Zhang, Meiqian Wang, Shuo Li, Eric W. M. Wong, Moshe Zukerman, [papers/Eff_OBS.pdf Efficiency of OBS Networks], Proc. ICTON 2012, University of Warwick, Coventry, England, July 2012.
+
+== Master's thesis:
+Jianan Zhang, [papers/MSthesis.pdf Enhancing network robustness via shielding], Massachusetts Institute of Technology, September 2014. Supervised by Prof. Eytan Modiano.
+
+== Technical reports:
+. Jianan Zhang, Lachlan L. H. Andrew, [papers/Engset_TR.pdf  Efficient generalized Engset blocking calculation (extended version)].
+. Jianan Zhang, Yu Peng, Eric W. M. Wong, Moshe Zukerman, [http://www.ee.cityu.edu.hk/~ewong/obs/sensitivity_full.pdf Sensitivity of blocking probability in the generalized Engset model for OBS (extended version)].  
+

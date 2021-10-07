@@ -1,0 +1,12 @@
+# jemdoc: menu{MENU}{index.html}, nodate
+= Jianan Zhang 
+
+~~~
+{}{img_left}{h_large.jpg}{[http://www.mit.edu/~jianan/  Jianan Zhang]}{126px}{136px}
+\n
+
+I am a graduate student at [http://lids.mit.edu/ Laboratory for Information and Decision Systems], [http://www.mit.edu/  Massachusetts Institute of Technology (MIT)]. My adviser is Professor [http://modiano.mit.edu/  Eytan Modiano]. I obtained my bachelor's degree from Tsinghua University in 2012 and master's degree from MIT in 2014.
+\n
+
+My research interests include modeling and designing reliable networks, combining techniques from optimization and graph theory. I am currently working on modeling and analysis of interdependent networks.
+~~~
