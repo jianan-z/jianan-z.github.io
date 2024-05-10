@@ -1,20 +1,59 @@
 # jemdoc: menu{MENU}{research.html}, nodate
-= Research 
+= Research
 
-== Journal papers:
+
+== Publication List
+[https://scholar.google.com/citations?user=4U5JCJgAAAAJ&hl=en Google Scholar]
+\n
+
+== Distributed Computing Networks
+. Jianan Zhang, Abhishek Sinha, Jaime Llorca, Antonia Tulino, Eytan Modiano, [https://ieeexplore.ieee.org/document/9404320 Optimal control of distributed computing networks with mixed-cast traffic flows], IEEE/ACM Transactions on Networking, 2021.
+
+. Jianan Zhang, Hyang-Won Lee, Eytan Modiano, [papers/interdiction_TR.pdf On the robustness of distributed computing networks], International Conference on the Design of reliable communication networks (DRCN), Coimbra, Portugal, 2019.
+
+. Anny Xijia Zheng, Jianan Zhang, Rui Wang, Leon Poutievski, [https://ieeexplore.ieee.org/document/10117023 How Traffic Analytics Shapes Traffic Engineering, Topology Engineering, and Capacity Planning of Jupiter], Optical Fiber Conference (OFC), 2023.
+
+. Leon Poutievski, Omid Mashayekhi, Joon Ong, Arjun Singh, Mukarram Tariq, Rui Wang, Jianan Zhang, Virginia Beauregard, Patrick Conner, Steve Gribble, Rishi Kapoor, Stephen Kratzer, Nanfang Li, Hong Liu, Karthik Nagaraj, Jason Ornstein, Samir Sawhney, Ryohei Urata, Lorenzo Vicisano, Kevin Yasumura, Shidong Zhang, Junlan Zhou, and Amin Vahdat, [https://dl.acm.org/doi/10.1145/3544216.3544265 Jupiter Evolving: Transforming Google’s Datacenter Network via Optical Circuit Switches and Software-Defined Networking], SIGCOMM, 2022.
+
+. Mingyang Zhang, Jianan Zhang, Rui Wang, Ramesh Govindan, Jeffrey C. Mogul, Amin Vahdat, [https://arxiv.org/abs/2110.08374 Gemini: practical reconfigurable datacenter networks with topology and traffic engineering], arxiv, 2021.
+
+
+== Integrated Communication, Sensing, Storage and Computing Networks
+.   Xiang Cheng, Haotian Zhang, Jianan Zhang, Shijian Gao, Sijiang Li, Ziwei Huang, Lu Bai, Zonghui Yang, Xinhu Zheng, Liuqing Yang, [https://ieeexplore.ieee.org/document/10330577 Intelligent multi-modal sensing-communication integration: synesthesia of machines], IEEE Communications Surveys \& Tutorials, vol. 26, no. 1, 2024.
+
+.   Sijiang Li, Dongliang Duan, Jianan Zhang, Xiang Cheng, Liuqing Yang, An efficient distributed multi-vehicle cooperative tracking framework via multicast, IEEE Internet of Things Journal, vol. 11, no. 1, 2024.
+
+.   Xiang Cheng, Ziwei Huang, Lu Bai, Haotian Zhang, Mingran Sun, Boxun Liu, Sijiang Li, Jianan Zhang, Minson Lee, M3SC: A generic dataset for mixed multi-modal (MMM) sensing and communication integration, China Communications, vol. 20, no. 11, pp. 13-29, Nov. 2023.
+
+== Multi-agent Systems
+. Yuanyuan Du, Jianan Zhang, Jie Xu, Xiang Cheng, Shuguang Cui, Global Map Assisted Multi-Agent Collision Avoidance via Deep Reinforcement Learning around Complex Obstacles, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2023.
+
+== Network Robustness
+. Jianan Zhang, Eytan Modiano, [https://ieeexplore.ieee.org/document/8457528 Connectivity in interdependent networks], IEEE/ACM Transactions on Networking, 2018.
+
+. Jianan Zhang, Eytan Modiano, Robust routing in interdependent networks, IEEE International Conference on Computer Communications (INFOCOM), Atlanta, USA, 2017. *Best-in-Session-Presentation Award*. [https://arxiv.org/abs/1709.03033 Extended version]
+
+. Jianan Zhang, Edmund Yeh, Eytan Modiano, [https://ieeexplore.ieee.org/document/8383960 Robustness of interdependent random geometric networks], IEEE Transactions on Network Science and Engineering, 2018.
+
+. Khashayar Kamran, Jianan Zhang, Edmund Yeh, and Eytan Modiano, Robustness of Interdependent Geometric Networks Under Inhomogeneous Failures, International Symposium on Modeling and Optimization in Mobile, Ad Hoc, and Wireless Networks (WiOpt), SpaSWiN workshop, Shanghai, China, 2018.
+
+. Jianan Zhang, Eytan Modiano, David Hay, [https://ieeexplore.ieee.org/document/7906469 Enhancing network robustness via shielding], IEEE/ACM Transactions on Networking, vol. 25, no. 4, pp. 2209 - 2222, August 2017.
+
+
+== Others
+
+. Jianan Zhang, Eytan Modiano, Joint frequency regulation and economic dispatch using limited communication, IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm), Aalborg, Denmark, 2018.
+
+. Hyang-Won Lee, Jianan Zhang, Eytan Modiano, Data-driven localization and estimation of disturbance in the interconnected power system, IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm), Aalborg, Denmark, 2018.
+
+. Zhisheng Niu, Jianan Zhang, Xueying Guo, Sheng Zhou, [papers/Energy_Delay_Tradeoff.pdf On energy-delay tradeoff in base station sleep mode operation], Proc. ICCS 2012, Singapore, Nov 2012.
+
 . Jianan Zhang, Lachlan L. H. Andrew, [papers/Engset_CL.pdf  Efficient generalized Engset blocking calculation], IEEE Communications Letters, vol. 18, no. 9, pp. 1535 - 1538, September, 2014.  [papers/calculation.m MATLAB code]
+
 . Jianan Zhang, Eric W. M. Wong, Moshe Zukerman, [http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6168151  Modeling an OBS node under critical load and high utilization conditions], IEEE Communications Letters, vol. 16, no. 4, pp. 544 - 546, April 2012.
+
 . Jianan Zhang, Yu Peng, Eric W. M. Wong, Moshe Zukerman, [http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6042295  Sensitivity of blocking probability in the generalized Engset model for OBS], IEEE Communications Letters, vol. 15, no. 11, pp. 1243 - 1245, November 2011.
 
-== Conference papers:
-. Jianan Zhang, Eytan Modiano, David Hay, [papers/shielding.pdf Enhancing network robustness via shielding], DRCN 2015, Kansas City, USA.
-. Zhisheng Niu, Jianan Zhang, Xueying Guo, Sheng Zhou, [papers/Energy_Delay_Tradeoff.pdf On energy-delay tradeoff in base station sleep mode operation], Proc. ICCS 2012, Singapore, Nov 2012.
 . Jianan Zhang, Meiqian Wang, Shuo Li, Eric W. M. Wong, Moshe Zukerman, [papers/Eff_OBS.pdf Efficiency of OBS Networks], Proc. ICTON 2012, University of Warwick, Coventry, England, July 2012.
 
-== Master's thesis:
-Jianan Zhang, [papers/MSthesis.pdf Enhancing network robustness via shielding], Massachusetts Institute of Technology, September 2014. Supervised by Prof. Eytan Modiano.
-
-== Technical reports:
-. Jianan Zhang, Lachlan L. H. Andrew, [papers/Engset_TR.pdf  Efficient generalized Engset blocking calculation (extended version)].
-. Jianan Zhang, Yu Peng, Eric W. M. Wong, Moshe Zukerman, [http://www.ee.cityu.edu.hk/~ewong/obs/sensitivity_full.pdf Sensitivity of blocking probability in the generalized Engset model for OBS (extended version)].  
 

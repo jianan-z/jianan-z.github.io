@@ -1,12 +1,22 @@
 # jemdoc: menu{MENU}{index.html}, nodate
-= Jianan Zhang 
+= Jianan Zhang
 
 ~~~
-{}{img_left}{h_large.jpg}{[http://www.mit.edu/~jianan/  Jianan Zhang]}{126px}{136px}
+{}{img_left}{large.jpeg}{[https://ele.pku.edu.cn/dzxxen/info/1049/1509.htm Jianan Zhang]}{150px}{150px}
+
 \n
 
-I am a graduate student at [http://lids.mit.edu/ Laboratory for Information and Decision Systems], [http://www.mit.edu/  Massachusetts Institute of Technology (MIT)]. My adviser is Professor [http://modiano.mit.edu/  Eytan Modiano]. I obtained my bachelor's degree from Tsinghua University in 2012 and master's degree from MIT in 2014.
-\n
-
-My research interests include modeling and designing reliable networks, combining techniques from optimization and graph theory. I am currently working on modeling and analysis of interdependent networks.
+Jianan Zhang is an Assistant Professor and Boya Young Scholar in the School of Electronics at Peking University. He was a Senior Software Engineer at Google during 2018-2023. Dr. Zhang obtained his B.E. degree from the Electronic Engineering Department at Tsinghua University in 2012, and his M.S. and Ph.D. degrees from the Laboratory for Information and Decision Systems (LIDS) at the Massachusetts Institute of Technology (MIT) in 2014 and 2018, respectively.
 ~~~
+
+Dr. Zhang’s research areas are in network theory and networked intelligence, with focus on resource allocations, cross-system optimizations, and robust network designs. His research has applications to cyber physical systems (such as smart transportation, smart grid and other interdependent networks), and data center networks. Currently he is working on integrated sensing, communication and computation networks and multi-agent systems. His work builds on foundations in network optimization, stochastic control and graph theory.
+
+~~~
+Students and Postdocs: We are recruiting graduate and undergraduate research assistants and postdocs. Candidates with solid mathematical backgrounds and interested in probability, machine learning, optimization or control are welcome to apply.
+
+诚邀博士后、博士生、硕士生、本科生加入，欢迎垂询（2024年秋季入学研究生名额已满）
+~~~
+
+Email: zhangjianan AT pku.edu.cn
+
+Website: https:\/\/ele.pku.edu.cn\/dzxxen\/info\/1049\/1509.htm
